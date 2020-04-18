@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fileName">frequencies.csv</string>
+    <string name="fileHeader">sortering 1, sortering 2, sortering 3, sortering 4, sortering 5, sortering 6</string>
+    <string-array name="elements">
+        <item>others</item>
+        <item>chutes</item>
+        <item>deps</item>
+        <item>unloads</item>
+        <item>ncl</item>
+    </string-array>
+    <integer name="elementsSize">5</integer>
+    <string-array name="othersAreas">
+        <item>BXT001</item>
+        <item>HOS001</item>
+        <item>SLS001</item>
+        <item>HLY001-101</item>
+    </string-array>
+    <integer name="othersAreasSize">4</integer>
+    <string-array name="chutesAreas">
+        <item>LOL014-030</item>
+        <item>LOL032-047</item>
+        <item>LOL187-202</item>
+        <item>LOL204-220</item>
+    </string-array>
+    <integer name="chutesAreasSize">4</integer>
+    <string-array name="depsAreas">
+        <item>DEP064-088</item>
+        <item>DEP091-117</item>
+        <item>DEP119-128</item>
+        <item>DEP130-151</item>
+        <item>DEP155-170</item>
+    </string-array>
+    <integer name="depsAreasSize">5</integer>
+    <string-array name="unloadsAreas">
+        <item>UNL006-011</item>
+        <item>UNL225-230</item>
+        <item>UNL173-184</item>
+    </string-array>
+    <integer name="unloadsAreasSize">3</integer>
+    <string-array name="nclAreas">
+        <item>NCL006</item>
+        <item>NCL173</item>
+        <item>NCL230</item>
+    </string-array>
+    <integer name="nclAreasSize">3</integer>
+</resources>

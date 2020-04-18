@@ -1,0 +1,32 @@
+[
+  {
+    "name": "others",
+    "filePosition": 0,
+    "viewPosition": 4,
+    "areaNames": ["BXT001-101", "HOS001", "SLS001", "HLY001-101"]
+  },
+  {
+    "name": "chutes",
+    "filePosition": 1,
+    "viewPosition": 0,
+    "areaNames": ["LOL014-030", "LOL032-047", "LOL187-202", "LOL204-220"]
+  },
+  {
+    "name": "deps",
+    "filePosition": 2,
+    "viewPosition": 3,
+    "areaNames": ["DEP064-088", "DEP091-117", "DEP119-128", "DEP130-151", "DEP155-170"]
+  },
+  {
+    "name": "unloads",
+    "filePosition": 3,
+    "viewPosition": 1,
+    "areaNames": ["UNL006-011", "UNL225-230", "UNL173-184"]
+  },
+  {
+    "name": "ncl",
+    "filePosition": 4,
+    "viewPosition": 2,
+    "areaNames": ["NCL006", "NCL173", "NCL230"]
+  }
+]

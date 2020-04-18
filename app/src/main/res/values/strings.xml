@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BeumerApp</string>
+    <string name="action_reset">reset</string>
+    <string name="action_share">share</string>
+</resources>
