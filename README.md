@@ -9,7 +9,7 @@ The Beumer frequency app is an android application designed by me to facilitate 
 - Persistent error frequency data
 - Send error frequency data by e-mail, Whatsapp as a CSV-file
 
-<a href="url"><img src="Screenshot_2020-08-23-12-07-40-011_lesl.beumerapp.jpg" align="left" height="600" width="48" ></a>
+<a href="url"><img src="Screenshot_2020-08-23-12-07-40-011_lesl.beumerapp.jpg" align="left" height="600"></a>
 
 # General architecture
 
