@@ -9,13 +9,13 @@ The Beumer frequency app is an android application designed by me to facilitate 
 - Persistent error frequency data
 - Send error frequency data by e-mail, Whatsapp as a CSV-file
 
-![](RackMultipart20200823-4-he7tuh_html_bc45005ddde5e6a5.jpg)
+![](Screenshot_2020-08-23-12-07-40-011_lesl.beumerapp.jpg)
 
 # General architecture
 
 The architecture of the Beumer frequency app makes use of a model-view-viewmodel (MVVM) pattern. Much of the architecture is inspired by Google&#39;s [guide to app architecture.](https://developer.android.com/jetpack/docs/guide)
 
-![](RackMultipart20200823-4-he7tuh_html_30516efde020af2c.png)
+![](BeumerApp_Software_Architecture.png)
 
 _Figure 1: App architecture_
 
